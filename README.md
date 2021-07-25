@@ -33,4 +33,4 @@ npm deploy
 
 The generated static pages will be pushed into `gh-pages` branch of `origin` and published in GitHub Pages (https://casbin.org/casbin-editor/). The Casbin official site (https://casbin.org/en/editor) uses iframe to embed the published GitHub pages. 
 
-This repo is test only
+This repo is test only~
