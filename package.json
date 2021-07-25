@@ -2,6 +2,7 @@
   "name": "casbin-editor",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://casbin.org/casbin-editor",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
