@@ -1,7 +1,7 @@
 {
   "name": "casbin-editor",
   "version": "1.0.0",
-  "description": "",
+  "description": "Casbin editor",
   "homepage": "https://casbin.org/casbin-editor/",
   "keywords": [],
   "main": "src/index.js",
